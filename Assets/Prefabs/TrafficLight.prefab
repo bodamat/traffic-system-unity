@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1003472587356006707}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.76, y: 6.888, z: 0.504}
+  m_LocalPosition: {x: 7.76, y: 6.888, z: 0.49}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3862328621843434364}
@@ -117,7 +117,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5643737802836910100}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.76, y: 7.638, z: 0.504}
+  m_LocalPosition: {x: 7.76, y: 7.638, z: 0.49}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3862328621843434364}
@@ -209,7 +209,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6687743019902695871}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.76, y: 6.138, z: 0.504}
+  m_LocalPosition: {x: 7.76, y: 6.138, z: 0.49}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3862328621843434364}
@@ -329,10 +329,6 @@ MonoBehaviour:
   - {fileID: 1003472587356006707}
   - {fileID: 6687743019902695871}
   lightColor: 0
-  lightColorDelay:
-  - 5
-  - 2
-  - 5
 --- !u!1001 &6532730100931381466
 PrefabInstance:
   m_ObjectHideFlags: 0
